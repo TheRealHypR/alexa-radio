@@ -1,0 +1,6 @@
+{
+  "name": "mnet/alexa-radio",
+  "timeout": 10000,
+  "connector": false,
+  "events": {}
+}
